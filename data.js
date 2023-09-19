@@ -6,6 +6,7 @@ const categories = [
     new Category({ title: 'Technology' }),
     new Category({ title: 'Entertainment' }),
     new Category({ title: 'Health' }),
+    new Category({ title: 'Healt 2' }),
 ];
 
 
